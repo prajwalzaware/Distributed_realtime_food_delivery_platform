@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "server": "127.0.0.1",
+            "port": 9042,
+            "previewLimit": 50,
+            "driver": "Scylla",
+            "name": "Local ScyllaDB",
+            "username": "cassandra ",
+            "password": "cassandra "
+        }
+    ],
+    "postman.settings.dotenv-detection-notification-visibility": false
+}
